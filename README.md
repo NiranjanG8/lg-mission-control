@@ -106,4 +106,58 @@ On first run, your TV will prompt for pairing approval.
 * Improved UI styling
 
 ---
+Nice 😌 that’s a good move. Adding PyInstaller makes your project look more complete and user-friendly.
+
+Here’s a clean section you can paste directly into your `README.md`.
+
+---
+
+## 📦 Build Standalone Executable (Optional)
+
+You can package the application into a standalone executable using **PyInstaller**, so users don’t need Python installed.
+
+### 1️⃣ Install PyInstaller
+
+```
+pip install pyinstaller
+```
+
+### 2️⃣ Build the executable
+
+```
+pyinstaller --onefile --windowed tvremote.py
+```
+
+### 3️⃣ Output
+
+After building, the executable will be located in:
+
+```
+dist/
+```
+
+You can distribute the generated `.exe` file from the `dist` folder.
+
+---
+
+## 🧠 Recommended (Cleaner Build Command)
+
+If you want it to look more polished:
+
+```
+pyinstaller --onefile --windowed --name LG-Mission-Control tvremote.py
+```
+
+Now the output becomes:
+
+```
+dist/LG-Mission-Control.exe
+```
+
+Much more professional.
+
+---
+
+
+
 
