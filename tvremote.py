@@ -10,7 +10,7 @@ from pywebostv.controls import (
     ApplicationControl
 )
 
-TV_IP = "10.36.193.1"
+TV_IP = "YOUR_LG_SMART_TV_IP"
 STORE_FILE = "store.json"
 
 # ---- Load Pairing Key ----
@@ -143,3 +143,4 @@ root.bind("<Return>", lambda e: key('ENTER'))
 root.bind("m", lambda e: media.mute(True))
 
 root.mainloop()
+
