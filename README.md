@@ -97,21 +97,6 @@ On first run, your TV will prompt for pairing approval.
 
 ---
 
-## 📌 Future Improvements
-
-* Connection status indicator
-* Now Playing information
-* Multi-TV support
-* Packaging as standalone executable
-* Improved UI styling
-
----
-Nice 😌 that’s a good move. Adding PyInstaller makes your project look more complete and user-friendly.
-
-Here’s a clean section you can paste directly into your `README.md`.
-
----
-
 ## 📦 Build Standalone Executable (Optional)
 
 You can package the application into a standalone executable using **PyInstaller**, so users don’t need Python installed.
