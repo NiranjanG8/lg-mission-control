@@ -80,15 +80,6 @@ On first run, your TV will prompt for pairing approval.
 
 ---
 
-## 🧠 Use Cases
-
-* Desktop-based remote control
-* Network automation experiments
-* Learning WebSocket device communication
-* Personal IoT control projects
-
----
-
 ## ⚠ Requirements
 
 * LG WebOS TV
