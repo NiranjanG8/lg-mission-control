@@ -59,13 +59,13 @@ Set your TV IP address using an environment variable:
 **Windows:**
 
 ```
-set LG_TV_IP=192.168.1.50
+set LG_TV_IP=192.168.50.78
 ```
 
 **Mac/Linux:**
 
 ```
-export LG_TV_IP=192.168.1.50
+export LG_TV_IP=192.168.50.78
 ```
 
 ---
